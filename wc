@@ -1,0 +1,1 @@
+"wc" - word count - returns the number of lines, words and characters in whichever filename it receives as an argument. With additional options, such as wc -l, the command can be used to count other things: lines, bytes, files and so on.
